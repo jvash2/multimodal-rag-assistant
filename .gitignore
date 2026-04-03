@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+venv/
+data/  # Si tienes archivos de texto o PDFs de prueba muy pesados
